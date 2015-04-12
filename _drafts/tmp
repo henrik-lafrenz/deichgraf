@@ -1,0 +1,14 @@
+
+	<div class="bottom">
+		<p id="bottom-text">Vielen Dank f&uuml;r ihr Interesse! Alles weitere findet sich <a href="kontakt.html">hier</a>.
+	</div>
+
+	
+.bottom {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+#bottom-text {
+	font-size: 1.2em;
+}

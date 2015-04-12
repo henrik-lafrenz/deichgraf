@@ -1,0 +1,51 @@
+body {
+  background: #50514c;
+  padding: 0;
+  margin: 0;
+}
+
+#strip {
+  width: 900px;
+  margin: 0 auto;
+  padding: 0;
+  background: #ffffff;
+}
+
+#outer-content-container {
+	padding-left: 60px;
+	width: 640px;
+}
+
+#header-text {
+	font-size: 1.2em;
+}
+
+h1, h2, h3, p {
+	font-family: "Crimson Text", sans-serif;
+}
+
+h3.chapter {
+	padding-top: 30px;
+}
+
+.player-surround {
+	width: 620px;
+	height: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: #d5d5d5;
+}
+
+.image-caption {
+	padding-top: 30px;
+}
+
+p.caption {
+	margin-top: 0px;
+}
+
+#bottom {
+	padding-bottom: 80px;
+}
