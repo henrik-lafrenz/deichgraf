@@ -16,7 +16,7 @@ body {
 	width: 640px;
 }
 
-#header-text {
+#header-text, #bottom-text {
 	font-size: 1.2em;
 }
 
@@ -46,8 +46,16 @@ h3.chapter {
 	padding-top: 20px;
 }
 
+.contact-section {
+	padding-top: 30px;
+}
+
 p.caption {
 	margin-top: 0px;
+}
+
+#bottom-link {
+	padding-top: 30px;
 }
 
 #bottom {
