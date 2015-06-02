@@ -22,10 +22,15 @@ body {
 
 h1, h2, h3, p {
 	font-family: "Crimson Text", sans-serif;
+	color: #000000;
 }
 
 h3.chapter {
 	padding-top: 30px;
+}
+
+a:hover, a:visited, a:link, a:active {
+    color: #000000;
 }
 
 .player-surround {
@@ -80,5 +85,5 @@ p.caption {
 }
 
 #bottom {
-	padding-bottom: 80px;
+	padding-bottom: 40px;
 }
