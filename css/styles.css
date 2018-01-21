@@ -33,16 +33,6 @@ a:hover, a:visited, a:link, a:active {
     color: #000000;
 }
 
-.player-surround {
-	width: 620px;
-	height: 30px;
-	padding-top: 20px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	background: #d5d5d5;
-}
-
 .image-caption {
 	padding-top: 30px;
 }
